@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RabitMQExample": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

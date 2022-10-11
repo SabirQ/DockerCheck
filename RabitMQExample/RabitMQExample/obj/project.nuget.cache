@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pps8l/72Jc0/s0wA9Xd5ob+Q2OK7GvgphA4miaerugF6vJn+za5nCMq40MXPJgX6VN7jzhetwOu2+TSOde1VvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\Classroom\\RabitMQExample\\RabitMQExample\\RabitMQExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabir\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
